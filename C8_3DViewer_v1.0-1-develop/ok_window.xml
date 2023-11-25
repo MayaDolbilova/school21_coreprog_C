@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette>
+ <active>
+  <colorrole role="WindowText">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>52</red>
+     <green>11</green>
+     <blue>255</blue>
+    </color>
+   </brush>
+  </colorrole>
+  <colorrole role="Dark">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>183</red>
+     <green>183</green>
+     <blue>183</blue>
+    </color>
+   </brush>
+  </colorrole>
+  <colorrole role="Shadow">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>172</red>
+     <green>172</green>
+     <blue>172</blue>
+    </color>
+   </brush>
+  </colorrole>
+ </active>
+ <inactive>
+  <colorrole role="WindowText">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>52</red>
+     <green>11</green>
+     <blue>255</blue>
+    </color>
+   </brush>
+  </colorrole>
+  <colorrole role="Dark">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>183</red>
+     <green>183</green>
+     <blue>183</blue>
+    </color>
+   </brush>
+  </colorrole>
+  <colorrole role="Shadow">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>172</red>
+     <green>172</green>
+     <blue>172</blue>
+    </color>
+   </brush>
+  </colorrole>
+ </inactive>
+ <disabled>
+  <colorrole role="WindowText">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>183</red>
+     <green>183</green>
+     <blue>183</blue>
+    </color>
+   </brush>
+  </colorrole>
+  <colorrole role="Dark">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>183</red>
+     <green>183</green>
+     <blue>183</blue>
+    </color>
+   </brush>
+  </colorrole>
+  <colorrole role="Text">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>183</red>
+     <green>183</green>
+     <blue>183</blue>
+    </color>
+   </brush>
+  </colorrole>
+  <colorrole role="ButtonText">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>183</red>
+     <green>183</green>
+     <blue>183</blue>
+    </color>
+   </brush>
+  </colorrole>
+  <colorrole role="Shadow">
+   <brush brushstyle="SolidPattern">
+    <color alpha="255">
+     <red>172</red>
+     <green>172</green>
+     <blue>172</blue>
+    </color>
+   </brush>
+  </colorrole>
+ </disabled>
+</palette>
